@@ -1,5 +1,7 @@
 This is a sample Python Django API app, that is based on a simple Django framework (non-Django REST framework). The Django version used is 2.2.11. For a database it uses the default SQLite. 
 
+The basic process is simple: create a model > create a view (where you define the logic and serialize the output) > create a url. 
+
 Please note that if you would like to start your own project and follow along the code, you can do it with the following command(from the command line, make sure you are in the same folder as manage.py file): 
 
 > django-admin startproject yourprojectname
