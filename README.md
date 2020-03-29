@@ -38,6 +38,6 @@ Before running the code, perform the commands below.:
 
 7. To access all leads in the database, go to the following address: 
 
-8. To access a specific lead in the database by the user id, go to the following address: 
+"127.0.0.1:8000/api/v1/leads/all/"
 
-9. To shut down the application, in your command shell, use CTRL+c command. 
+8. To shut down the application, in your command shell, use CTRL+c command. 
