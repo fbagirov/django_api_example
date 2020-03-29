@@ -39,6 +39,3 @@ Before running the code, perform the commands below.:
 8. To access a specific lead in the database by the user id, go to the following address: 
 
 9. To shut down the application, in your command shell, use CTRL+c command. 
-
-
-
